@@ -14,3 +14,4 @@
 - 운전자를 안전하게, 드라이브를 흥겹게! **[카튠]**
 ### 24.07.08 - 24.07.15 (4인 개발)
 > ### [repo](https://github.com/Tune-Manner/CarTune)
+<img width="600" alt="스크린샷 2024-08-05 오후 5 22 47" src="https://github.com/user-attachments/assets/6c5552cf-bd92-49f0-b059-6e403064281d">
