@@ -1,12 +1,14 @@
-## Hi there 👋
+# Team Tune-And-Manner
 
-<!--
+</br>
 
-**Here are some ideas to get you started:**
+## Wisely-Diary : 특별한 기록, 기억될 하루 📒 감정 기반 AI 일기 컨텐츠화 서비스
+### 24.07.16 - 24.08.28 (5인 개발)
+> ### [BE repo](https://github.com/Tune-Manner/wisely-diary-backend) </br>
+> ### [FE repo](https://github.com/Tune-Manner/wisely-diary-frontend)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</br>
+
+## Cartune : 운전자를 안전하게, 드라이브를 흥겹게 🚙 환경 기반 AI 음악 선곡 서비스
+### 24.07.08 - 24.07.15 (4인 개발)
+> ### [repo](https://github.com/Tune-Manner/CarTune)
