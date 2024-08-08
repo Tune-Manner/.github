@@ -7,6 +7,7 @@
 ### 24.07.16 - 24.08.28 (5인 개발)
 > ### [BE repo](https://github.com/Tune-Manner/wisely-diary-backend) </br>
 > ### [FE repo](https://github.com/Tune-Manner/wisely-diary-frontend)
+<img width="600" alt="스크린샷 2024-08-08 오후 12 42 17" src="https://github.com/user-attachments/assets/f108f423-2a11-445d-8a0e-d520ac301770">
 
 </br>
 
