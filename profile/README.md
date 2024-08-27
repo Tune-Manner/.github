@@ -7,8 +7,7 @@
 ### 24.07.16 - 24.08.28 (5인 개발)
 > ### [BE repo](https://github.com/Tune-Manner/wisely-diary-backend) </br>
 > ### [FE repo](https://github.com/Tune-Manner/wisely-diary-frontend)
-<img width="600" alt="스크린샷 2024-08-08 오후 12 42 17" src="https://github.com/user-attachments/assets/f108f423-2a11-445d-8a0e-d520ac301770">
-
+<img width="600" alt="스크린샷 2024-08-08 오후 12 42 17" src="https://github.com/user-attachments/assets/72b4d3f4-709c-40a9-9ce2-837726672b96">
 </br>
 
 ## Cartune 🚙 환경 기반 AI 음악 선곡 서비스
